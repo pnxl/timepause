@@ -1,6 +1,6 @@
 {
-    "pack": {
-        "pack_format": 10,
-        "description": "§6Timepause for Geoverse\n§egithub.com/playgeoverse"
-    }
+  "pack": {
+    "pack_format": 15,
+    "description": "Pause the time when no-one is around!"
+  }
 }
