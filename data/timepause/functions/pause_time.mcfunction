@@ -1,2 +1,2 @@
-execute unless entity @p run gamerule doDaylightCycle false
-execute if entity @p run gamerule doDaylightCycle true
+execute unless entity @a run gamerule doDaylightCycle false
+execute if entity @a run gamerule doDaylightCycle true
