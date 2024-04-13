@@ -1,16 +1,30 @@
-# timepause
-Pause the time when no-one is around.
+Pauses the in-game time when all players leave the server, then continues it when a player joins the server.
 
-## What does it do?
-Pretty simple, as said above - it pauses the in-game time when all players leave the server, and continues it when a player joins the server.
+### What is this for?
 
-## Why did you make this?
-So players don't spawn in the middle of the night after they leave for 10 minutes, surrounded by 300,000 creepers. 😁
+This datapack can be applied for many reasons, some of which are:
+- You have a modded server with a seasons mod, and you don't want the seasons to progress when everyone is offline.
+- You want to pause the time in your server and keep it where it was before everyone left.
 
-## Installation guide:
-1. Download the latest release on the sidebar to the right.
-2. Throw this in the `datapacks` folder of your existing world.
+### Setting up this datapack
 
-## IDE Setup:
-* [Visual Studio Code](https://code.visualstudio.com)
-* [Data-pack Helper Plus](https://marketplace.visualstudio.com/items?itemName=SPGoding.datapack-language-server)
+1. Download the release for your Minecraft version.
+2. Select your world, click "Edit", then "Open world folder".
+3. Put the `.zip` file in the `/datapacks` folder.
+4. Join your world.
+
+### Setting up this datapack for servers
+
+1. Open your `/world` folder. (or whatever your world is called)
+2. Put the `.zip` file in the `/datapacks` folder.
+3. Restart your server. ([Why shouldn't I reload?](https://madelinemiller.dev/blog/problem-with-reload/))
+
+Realms is an unsupported platform. Your mileage may vary.
+
+### Uninstallation
+
+You can simply remove the datapack from your `/datapacks` folder. 
+
+### Acknowledgement
+
+The background of the icon: [Minecraft - Creeper creature profile - DC Heroes RPG - Writeups.org](https://www.writeups.org/minecraft-creeper-profile/)
