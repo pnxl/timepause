@@ -25,3 +25,7 @@ Realms is an unsupported platform. Your mileage may vary.
 ### Uninstallation
 
 You can simply remove the datapack from your `/datapacks` folder.
+
+### Acknowledgement
+
+Minecraft clock texture: [Minecraft](https://minecraft.net/)
