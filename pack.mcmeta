@@ -1,6 +1,9 @@
 {
   "pack": {
-    "pack_format": 15,
-    "description": "Pause the time when no-one is around!"
+    "description": {
+      "translate": "Pause the time when no-one is around!"
+    },
+    "min_format": [48, 0],
+    "max_format": [121, 0]
   }
 }
