@@ -3,6 +3,7 @@
     "description": {
       "translate": "Pause the time when no-one is around!"
     },
+    "pack_format": 81,
     "supported_formats": {
       "min_inclusive": 48,
       "max_inclusive": 81
