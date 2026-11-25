@@ -3,7 +3,7 @@
     "description": {
       "translate": "Pause the time when no-one is around!"
     },
-    "min_format": [94.1, 0],
-    "max_format": [121, 0]
+    "min_format": [88, 0],
+    "max_format": [88, 0]
   }
 }
